@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XRDowc8xFrKRlonh5ESOevDce4mZNJQodsH9UWa5ZcxNeLFGwOcEv3x23C6pWvxyH7VVC7DD/S2tZlMNLSLL/A==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\RecursiveJSON\\RecursiveJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\notch.nien\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

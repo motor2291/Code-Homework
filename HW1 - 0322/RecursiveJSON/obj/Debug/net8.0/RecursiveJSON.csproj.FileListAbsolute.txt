@@ -1,0 +1,17 @@
+D:\Project\RecursiveJSON\bin\Debug\net8.0\RecursiveJSON.exe
+D:\Project\RecursiveJSON\bin\Debug\net8.0\RecursiveJSON.deps.json
+D:\Project\RecursiveJSON\bin\Debug\net8.0\RecursiveJSON.runtimeconfig.json
+D:\Project\RecursiveJSON\bin\Debug\net8.0\RecursiveJSON.dll
+D:\Project\RecursiveJSON\bin\Debug\net8.0\RecursiveJSON.pdb
+D:\Project\RecursiveJSON\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Project\RecursiveJSON\obj\Debug\net8.0\RecursiveJSON.csproj.AssemblyReference.cache
+D:\Project\RecursiveJSON\obj\Debug\net8.0\RecursiveJSON.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\RecursiveJSON\obj\Debug\net8.0\RecursiveJSON.AssemblyInfoInputs.cache
+D:\Project\RecursiveJSON\obj\Debug\net8.0\RecursiveJSON.AssemblyInfo.cs
+D:\Project\RecursiveJSON\obj\Debug\net8.0\RecursiveJSON.csproj.CoreCompileInputs.cache
+D:\Project\RecursiveJSON\obj\Debug\net8.0\Recursiv.4D93B9D1.Up2Date
+D:\Project\RecursiveJSON\obj\Debug\net8.0\RecursiveJSON.dll
+D:\Project\RecursiveJSON\obj\Debug\net8.0\refint\RecursiveJSON.dll
+D:\Project\RecursiveJSON\obj\Debug\net8.0\RecursiveJSON.pdb
+D:\Project\RecursiveJSON\obj\Debug\net8.0\RecursiveJSON.genruntimeconfig.cache
+D:\Project\RecursiveJSON\obj\Debug\net8.0\ref\RecursiveJSON.dll
