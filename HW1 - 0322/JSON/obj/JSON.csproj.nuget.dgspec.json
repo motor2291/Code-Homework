@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\JSON\\JSON.csproj": {}
+    "D:\\Project\\HW1 - 0322\\JSON\\JSON.csproj": {}
   },
   "projects": {
-    "D:\\Project\\JSON\\JSON.csproj": {
+    "D:\\Project\\HW1 - 0322\\JSON\\JSON.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\JSON\\JSON.csproj",
+        "projectUniqueName": "D:\\Project\\HW1 - 0322\\JSON\\JSON.csproj",
         "projectName": "JSON",
-        "projectPath": "D:\\Project\\JSON\\JSON.csproj",
+        "projectPath": "D:\\Project\\HW1 - 0322\\JSON\\JSON.csproj",
         "packagesPath": "C:\\Users\\notch.nien\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\JSON\\obj\\",
+        "outputPath": "D:\\Project\\HW1 - 0322\\JSON\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\notch.nien\\AppData\\Roaming\\NuGet\\NuGet.Config"
